@@ -15,3 +15,5 @@ sobrenome = "Oliveira";
 nomeCompleto = nome + "  "+ sobrenome;
 
 document.getElementById("texto").innerHTML = nomeCompleto;
+
+// Varável let só pode ser usada uma vez
