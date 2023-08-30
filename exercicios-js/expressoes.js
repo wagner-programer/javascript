@@ -10,7 +10,7 @@ alert(total);
 //Operador ternario
 
 var idade, eleitor;
-idade = 35;
+idade = 6;
 eleitor = (idade < 18) ? "Não eleitor" : "Sim eleitor ";
 
 alert ('A resposta é :'+ eleitor + ' A idade dele é ' + idade);
